@@ -1,0 +1,17 @@
+credentials:
+  usernames:
+    gdhong:
+      email: gdhong@mail.com
+      name: "홍길동"
+      password: $2b$12$.iE9n0mb8Kt7Kkt/BeVeOeh7K6YEjCaRRD7VyqjT9axwLm1r.1LAi  # 123
+    ssyi:
+      email: ssyi@mail.com
+      name: "이순신"
+      password: $2b$12$c6WbGFjP1G1vabe5sN.xT.AiC034.PyqApEwJripzPSmQvGy/MjRO   # 456
+preauthorized:
+  emails:
+  - admin123@mail.com
+cookie:
+  expiry_days: 30
+  key: abcd
+  name: myCookie
